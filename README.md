@@ -12,7 +12,7 @@ To follow along this project need to available on your system below requirements
   ```
 - Apache Airflow running
   ```bash
-  airflow webserver port:8080 -d
+  airflow webserver port 8080 -d
 
   airflow scheduler -d
   ```
