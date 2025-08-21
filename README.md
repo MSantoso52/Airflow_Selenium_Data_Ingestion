@@ -1,4 +1,5 @@
 # Airflow_Selenium_Data_Ingestion
+![A screenshot of a project interface](selenium_webscraping.png)
 # *Overview*
 Project repo to demonstrate data extraction from web through web scrapping process using python library Selenium. The exctraction process is automated using Airflow and the final ouput is CSV file.
 # *Prerequisites*
