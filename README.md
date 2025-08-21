@@ -12,9 +12,9 @@ To follow along this project need to available on your system below requirements
   ```
 - Apache Airflow running
   ```bash
-  airflow-webserver
+  airflow webserver port:8080 -d
 
-  airflow-scheduler 
+  airflow scheduler -d
   ```
 # *Project Flow*
 Airflow Orchestration Data Ingestion with Selenium, create Airflow DAG for data ingestion:
